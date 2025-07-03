@@ -65,5 +65,43 @@ Review and manage installed browser extensions to identify and remove any suspic
 
 ---
 
-## 📎 Submission
-The repository link containing this README and screenshots has been submitted through the assignment portal.
+## 🗨️ Interview Questions & Answers
+
+**1️⃣ How can browser extensions pose security risks?**  
+Browser extensions can read and modify web pages you visit, capture keystrokes, track your browsing history, or inject malicious scripts. If compromised or malicious, they can steal data, hijack browsing, or install malware.
+
+**2️⃣ What permissions should raise suspicion?**  
+Permissions like:
+- “Read and change all your data on all websites”
+- “Access your clipboard”
+- “Manage downloads”
+- “Read and change browser settings”
+Especially if these permissions are unnecessary for the extension’s function.
+
+**3️⃣ How to safely install browser extensions?**  
+✅ Install only from official browser stores (Chrome Web Store, Firefox Add-ons).  
+✅ Check ratings, reviews, and publisher details.  
+❌ Avoid extensions from unknown or suspicious developers.
+
+**4️⃣ What is extension sandboxing?**  
+Extension sandboxing isolates an extension’s processes from the main browser and system, limiting its ability to affect the browser or operating system if compromised.
+
+**5️⃣ Can extensions steal passwords?**  
+Yes. If an extension can read page contents or intercept input fields, it can capture passwords or sensitive data entered by the user.
+
+**6️⃣ How to update extensions securely?**  
+- Keep automatic updates enabled in your browser.
+- Update extensions only through official browser stores.
+- Never install updates from unknown or third-party websites.
+
+**7️⃣ Difference between extensions and plugins?**  
+- **Extensions**: Modify or extend browser features; run inside the browser.
+- **Plugins**: (largely obsolete) External programs that enable specific content types like Flash or Java, often with less security isolation.
+
+**8️⃣ How to report malicious extensions?**  
+- **Chrome**: Go to the extension’s page in the Chrome Web Store → Click “Report abuse.”
+- **Firefox**: Go to the extension’s page in Mozilla Add-ons → Click “Report this add-on.”
+- Or contact the browser’s official support team directly.
+
+---
+
