@@ -55,7 +55,7 @@ Review and manage installed browser extensions to identify and remove any suspic
 ## 📸 Screenshots
 
 ### 🔹 Extensions Overview
-![Extensions List](Screenshot 2025-07-03 103815.png)
+![Extensions List] (Screenshot 2025-07-03 103815.png)
 
 ### 🔹 Adblock Plus Details
 ![Adblock Plus Details](Screenshot 2025-07-03 103935.png)
