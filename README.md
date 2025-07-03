@@ -55,13 +55,13 @@ Review and manage installed browser extensions to identify and remove any suspic
 ## 📸 Screenshots
 
 ### 🔹 Extensions Overview
-![Extensions List](./76f0080f-e538-44d8-9000-43ea87916e25.png)
+![Extensions List](./Screenshot 2025-07-03 103815.png)
 
 ### 🔹 Adblock Plus Details
-![Adblock Plus Details](./241366ee-cf80-4990-8034-aeb61c3a3538.png)
+![Adblock Plus Details](./Screenshot 2025-07-03 103935.png)
 
 ### 🔹 Google Docs Offline Details
-![Google Docs Offline Details](./e2b42ec0-3af4-495d-9e29-7b18281f5d89.png)
+![Google Docs Offline Details](./Screenshot 2025-07-03 104002.png)
 
 ---
 
